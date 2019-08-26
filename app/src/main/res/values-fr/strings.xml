@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cinéma</string>
+    <string name="description">Film</string>
+    <string name="title_network_alert">Erreur réseau</string>
+    <string name="message_network_alert">Assurez-vous d\'être connecté à Internet</string>
+    <string name="release_date_error">Date de sortie manquante</string>
+
+    <!--DashBoard Menu Strings-->
+    <string name="top_rated">Les mieux notés</string>
+    <string name="favorites">Favoris</string>
+    <string name="popular">Populaire</string>
+    <string name="sort_by">Trier par</string>
+
+    <!--Movie Details Section-->
+    <string name="share_trailer">Partager la bande-annonce</string>
+    <string name="add_to_favorites">Marquer comme favori</string>
+    <string name="remove_from_favorites">Retirer des favoris</string>
+    <string name="watch_trailer">Regarde la bande-annonce</string>
+
+    <!--Rating-->
+    <string name="movie_user_rating">TMDb: %1$s/10</string>
+
+    <!--Notif-->
+    <string name="content_title">Ma notification Favorit Mopvie</string>
+    <string name="content_text">Bien</string>
+
+</resources>
